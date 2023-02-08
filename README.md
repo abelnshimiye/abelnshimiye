@@ -1,4 +1,4 @@
-### Hi there 👋
+### Computer engineering and Telecommunication Engineer with more than three years of experience in software development, information systems development, embedded and mobile systems design and management, data science, and enthusiast teacher.
 
 <!--
 **abelnshimiye/abelnshimiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
