@@ -1,19 +1,20 @@
-As a Software Engineer with over three years of experience, I have honed my skills in software development, information systems development, embedded and mobile systems design and management, and data science. With a passion for teaching, I have also enjoyed sharing my expertise with others.
-Throughout my career, I have worked on diverse projects, from developing complex software applications to designing cutting-edge embedded systems. I am skilled in a variety of programming languages, including Python, Java, and C++, and I have experience using data analysis tools such as SQL, Tableau, and Excel.
-In addition to my technical expertise, I am a proactive problem-solver committed to delivering high-quality results. I am a strong communicator and work well in a team environment, where I am always eager to collaborate and learn from my colleagues.
-I'd love to connect if you're looking for a dedicated and experienced engineer who can help you achieve your goals.
 
+# Hi I'm Abel nshimiye.
+## - Full stack Web  developer
 
-**abel nshimiye.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working as Software Engineer
+- 🌱 I’m currently learning Software Architect
+- 👯 I’m looking to collaborate:
+  1. Project wrote in Python (Django) and Javascript (React,  NextJS and React Native)
+  2. Database modelling
+  3. API design
+  
 - 💬 Ask me about web and Mobile development
+- 📫 How to reach me: abelsully@gmail.com
+- ⚡ Fun fact: I like learning new skills
+
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+
 -->
 
