@@ -1,6 +1,6 @@
 
 # Hi I'm Abel nshimiye.
-## - Full stack Web  developer
+## - Full stack Web and Mobile  developer
 
 - 🔭 I’m currently working as Software Engineer
 - 🌱 I’m currently learning Software Architect
@@ -13,8 +13,4 @@
 - 📫 How to reach me: abelsully@gmail.com
 - ⚡ Fun fact: I like learning new skills
 
-<!-- - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
 
