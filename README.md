@@ -1,6 +1,6 @@
 
 # Hi I'm Abel nshimiye.
-## - Full stack Web and Mobile  developer
+## - Full stack developer
 
 - 🔭 I’m currently working as Software Engineer
 - 🌱 I’m currently learning Software Architect
