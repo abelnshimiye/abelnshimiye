@@ -2,10 +2,10 @@
 # Hi I'm Abel nshimiye.
 ## - Full stack developer
 
-- 🔭 I’m currently working as Software Engineer
+- 🔭 I’m currently working as a Software Engineer
 - 🌱 I’m currently learning Software Architect
 - 👯 I’m looking to collaborate:
-  1. Project wrote in Python (Django) and Javascript (React,  NextJS and React Native)
+  1. Project written in Python (Django) and Javascript (React,  NextJS, React Native and Redux)
   2. Database modelling
   3. API design
   
