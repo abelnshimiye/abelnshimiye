@@ -3,7 +3,7 @@
 ## - Full stack developer
 
 - 🔭 I’m currently working as a Full-stack developer
-- 🌱 I’m currently learning Software Architect
+- 🌱 I’m currently learning skills related to Software Architect and Business analyst
 - 👯 I’m looking to collaborate:
   1. Project written in Python (Django) and Javascript (React,  NextJS, React Native and Redux)
   2. Database modelling
