@@ -3,8 +3,8 @@
 
 I'm a passionate and multi-skilled software engineer with hands-on experience in full-stack web and mobile development, DevOps practices, and digital product delivery. 
 
-🔧 Stack: Python, Django, Docker, Next.js, TypeScript, Flutter
-📦 Interests: Distributed Systems · Software Architecture · Data Modeling · Tech-Driven Community Impact
+- 🔧 Stack: Python, Django, Docker, Next.js, TypeScript, Flutter
+- 📦 Interests: Distributed Systems · Software Architecture · Data Modeling · Tech-Driven Community Impact
 - 👯 I’m looking to collaborate:
   1. Project written in Python (Django) and Javascript (React,  NextJS, React Native and Redux)
   2. Database modelling
