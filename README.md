@@ -11,7 +11,12 @@ I'm a passionate and multi-skilled software engineer with hands-on experience in
   4. DevOps: Docker Compose, CI/CD practices
   5. Database: PostgreSQL, MySQL, SQLite, MongoDB — with a strong focus on data modelling and system architecture
      
-- 📦 Interests: Distributed Systems · Software Architecture · Data Modeling · Tech-Driven Community Impact
+- 📦 Interests:
+     - Distributed Systems
+     - Software Architecture
+     - Data Modelling
+     - Tech-Driven Community Impact
+       
 - 🤝 Open to Collaboration On:
   1. Projects leveraging Python (Django) and JavaScript/TypeScript frameworks, including React, Next.js, React Native, and Redux
   2. Database modelling for scalable and efficient systems
