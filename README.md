@@ -5,11 +5,11 @@ I'm a passionate and multi-skilled software engineer with hands-on experience in
 
 - 🛠 Tech Stack & Tools:
    - Proficient in designing and building scalable web and mobile applications using:
-  1. Backend: Python, Django (REST Framework), Docker (containerization & orchestration)
-  2. Frontend: Next.js, React, React Native, TypeScript, Redux
-  3. Mobile: Flutter (cross-platform development)
-  4. DevOps: Docker Compose, CI/CD practices
-  5. Database: PostgreSQL, MySQL, SQLite, MongoDB — with a strong focus on data modelling and system architecture
+        - Backend: Python, Django (REST Framework), Docker (containerization & orchestration)
+        - Frontend: Next.js, React, React Native, TypeScript, Redux
+        - Mobile: Flutter (cross-platform development)
+        - DevOps: Docker Compose, CI/CD practices
+        - Database: PostgreSQL, MySQL, SQLite, MongoDB — with a strong focus on data modelling and system architecture
      
 - 📦 Interests:
      - Distributed Systems
