@@ -9,7 +9,7 @@ I'm a passionate and multi-skilled software engineer with hands-on experience in
   2. Frontend: Next.js, React, React Native, TypeScript, Redux
   3. Mobile: Flutter (cross-platform development)
   4. DevOps: Docker Compose, CI/CD practices
-  5. Database: PostgreSQL, MySQL, SQLite — with a strong focus on data modeling and system architecture
+  5. Database: PostgreSQL, MySQL, SQLite, MongoDB — with a strong focus on data modelling and system architecture
      
 - 📦 Interests: Distributed Systems · Software Architecture · Data Modeling · Tech-Driven Community Impact
 - 🤝 Open to Collaboration On:
